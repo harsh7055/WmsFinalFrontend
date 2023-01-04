@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c2db4b4.css",
+    "main.js": "/static/js/main.192ba5a7.js",
+    "static/media/trangilelogo.jpeg": "/static/media/trangilelogo.352566706495b7a23735.jpeg",
+    "index.html": "/index.html",
+    "main.5c2db4b4.css.map": "/static/css/main.5c2db4b4.css.map",
+    "main.192ba5a7.js.map": "/static/js/main.192ba5a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2db4b4.css",
+    "static/js/main.192ba5a7.js"
+  ]
+}
